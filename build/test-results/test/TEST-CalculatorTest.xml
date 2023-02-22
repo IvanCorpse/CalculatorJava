@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalculatorTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-02-20T20:43:02" hostname="NEWCORPSEPC" time="0.002">
+  <properties/>
+  <testcase name="when17addedTo34Then51" classname="CalculatorTest" time="0.001"/>
+  <testcase name="when48DecreasedBy22Then26" classname="CalculatorTest" time="0.001"/>
+  <testcase name="whenDivideBy0ThenThrowException" classname="CalculatorTest" time="0.0"/>
+  <testcase name="when12MultipleBy4Then48" classname="CalculatorTest" time="0.0"/>
+  <testcase name="when99DividedBy3Then33" classname="CalculatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
